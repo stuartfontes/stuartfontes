@@ -32,11 +32,21 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-000000?style=for-the-badge&logo=pm2&logoColor=white)
+![Mailtrap](https://img.shields.io/badge/Mailtrap-000000?style=for-the-badge&logo=mailtrap&logoColor=white)
+![MaxMind](https://img.shields.io/badge/MaxMind-000000?style=for-the-badge&logo=maxmind&logoColor=white)
+
+### Ferramentas em Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Mailtrap](https://img.shields.io/badge/Mailtrap-000000?style=for-the-badge&logo=mailtrap&logoColor=white)
-![MaxMind](https://img.shields.io/badge/MaxMind-000000?style=for-the-badge&logo=maxmind&logoColor=white)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-000000?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge)
+![FFUF](https://img.shields.io/badge/FFUF-000000?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-000000?style=for-the-badge)
+![0xSTU4RT](https://img.shields.io/badge/0xSTU4RT-000000?style=for-the-badge)
+![GAMKERS-DDOS](https://img.shields.io/badge/GAMKERS--DDOS-000000?style=for-the-badge)
 
 ### Testes de API
 ![Insomnia](https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white)
