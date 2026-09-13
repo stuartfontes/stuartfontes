@@ -27,6 +27,11 @@
 ### Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-000000?style=for-the-badge&logo=pm2&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -34,4 +39,18 @@
 ![MaxMind](https://img.shields.io/badge/MaxMind-000000?style=for-the-badge&logo=maxmind&logoColor=white)
 
 ### Testes de API
+![Insomnia](https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
+
+### Sistemas operacionais
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20XP%2F7%2F10%2F11-000000?style=for-the-badge&logo=windows&logoColor=white)
+
+### Fundamentos e ensinamentos
+![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge)
+![Segurança](https://img.shields.io/badge/Seguran%C3%A7a%20(JWT%2F2FA)-000000?style=for-the-badge)
+![Redes](https://img.shields.io/badge/Redes%20(TCP%2FIP)-000000?style=for-the-badge)
