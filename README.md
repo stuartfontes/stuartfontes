@@ -34,6 +34,9 @@
 ![PM2](https://img.shields.io/badge/PM2-000000?style=for-the-badge&logo=pm2&logoColor=white)
 ![Mailtrap](https://img.shields.io/badge/Mailtrap-000000?style=for-the-badge&logo=mailtrap&logoColor=white)
 ![MaxMind](https://img.shields.io/badge/MaxMind-000000?style=for-the-badge&logo=maxmind&logoColor=white)
+![Oracle VM VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Rufus](https://img.shields.io/badge/Rufus-000000?style=for-the-badge)
+![WinSCP](https://img.shields.io/badge/WinSCP-000000?style=for-the-badge&logo=winscp&logoColor=white)
 
 ### Ferramentas em Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
